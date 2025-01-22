@@ -1,0 +1,22 @@
+/* h1 {
+    property ; value ;         basic syntax // Element selector
+} */
+
+
+/* * {
+    property value         / universal selector 
+} */
+
+
+
+ /* # myid {           // although we can give multiple id to same element
+    property : value ;     // ID selector to selector particular element
+ } */ 
+  
+ 
+
+
+/* 
+ .myclass{
+    property : value;      //same to muliple element of same kind
+ } */
