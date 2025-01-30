@@ -1,0 +1,57 @@
+/* #main{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(177, 169, 184);
+    border: 5px solid  black;
+    border-radius: 20px;
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-content: space-around;
+    
+    flex-wrap: wrap;
+    font-size: 50px;
+
+    
+}
+
+.letter{
+    height: 100px;
+    width: 100px;
+    border: 3px solid rgb(32, 16, 44);
+    border-radius: 15px;
+    /* align-items: center;
+    justify-items: center; */
+    /* align-content: start;
+    justify-content: center;
+
+
+}  */
+
+
+
+
+#nav{
+    height: 50px;
+    width: 900px;
+    font-size: 24px;
+    background-color: rgb(249, 186, 207);
+    display: flex;
+    border-radius: 15px;
+    border: 2px solid rgb(5, 159, 205);
+    
+
+}
+
+.elements{
+    height: 50px;
+    width: 80px;
+    left: 20px;
+    position: relative;
+
+}
+
+
+
+
+
